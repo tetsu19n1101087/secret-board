@@ -8,12 +8,18 @@
   },
   "license": "ISC",
   "dependencies": {
+    "acorn": "^5.7.4",
+    "clean-css": "^4.1.11",
     "cookies": "0.5.1",
     "http-auth": "3.2.3",
+    "kind-of": "^6.0.3",
     "moment-timezone": "0.5.0",
     "pg": "7.4.1",
     "pg-hstore": "2.3.2",
     "pug": "2.0.0-rc.4",
-    "sequelize": "4.33.4"
+    "sequelize": "^4.44.3"
+  },
+  "engines": {
+    "node": "~10"
   }
 }
