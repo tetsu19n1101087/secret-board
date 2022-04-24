@@ -13,12 +13,16 @@
     "cookies": "0.5.1",
     "http-auth": "3.2.3",
     "kind-of": "^6.0.3",
+<<<<<<< HEAD
     "lodash": "^4.17.19",
     "moment": "^2.29.2",
+=======
+    "lodash": "^4.17.21",
+>>>>>>> b978b9125844f499ee8f1f791cfb65cce7604396
     "moment-timezone": "0.5.0",
     "pg": "7.4.1",
     "pg-hstore": "2.3.2",
-    "pug": "2.0.0-rc.4",
+    "pug": "3.0.1",
     "sequelize": "^5.15.1"
   },
   "engines": {
