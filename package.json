@@ -11,6 +11,7 @@
     "acorn": "^5.7.4",
     "clean-css": "^4.1.11",
     "cookies": "0.5.1",
+    "htpasswd": "2.4.4",
     "http-auth": "3.2.3",
     "kind-of": "^6.0.3",
     "lodash": "^4.17.21",
@@ -23,6 +24,6 @@
     "validator": "^13.7.0"
   },
   "engines": {
-    "node": "~10"
+    "node": ">=10"
   }
 }
